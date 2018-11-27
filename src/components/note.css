@@ -1,0 +1,11 @@
+.note {
+    margin: 20px 50px;
+    padding: 30px;
+    border: 1px solid #e8e8e8;
+    background-color: #ffffff;
+    cursor: pointer;
+}
+
+.note:hover {
+    opacity: 0.8;
+}
